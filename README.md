@@ -1,1 +1,1 @@
-# Regresi-Lineat-Berganda Penjualan Mobil
+# Regresi-Linear-Berganda Penjualan Mobil
